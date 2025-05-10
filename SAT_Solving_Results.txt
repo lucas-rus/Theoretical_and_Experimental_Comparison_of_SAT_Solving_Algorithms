@@ -1,0 +1,756 @@
+Set 1 (Vars: 10, Clauses: 30):
+  Resolution | Result: True | Time: 0.003130s | Memory: 206.30KB
+  DP         | Result: True | Time: 0.000370s | Memory: 10.81KB
+  DPLL       | Result: True | Time: 0.000625s | Memory: 16.20KB
+  Glucose3   | Result: True | Time: 0.000688s | Memory: 0.52KB
+
+Set 2 (Vars: 10, Clauses: 40):
+  Resolution | Result: True | Time: 0.005820s | Memory: 357.97KB
+  DP         | Result: True | Time: 0.001971s | Memory: 13.83KB
+  DPLL       | Result: True | Time: 0.000531s | Memory: 18.22KB
+  Glucose3   | Result: True | Time: 0.000166s | Memory: 0.52KB
+
+Set 3 (Vars: 10, Clauses: 50):
+  Resolution | Result: None | Time: 0.009188s | Memory: 601.74KB
+  DP         | Result: True | Time: 0.000380s | Memory: 12.49KB
+  DPLL       | Result: True | Time: 0.000707s | Memory: 20.98KB
+  Glucose3   | Result: True | Time: 0.000222s | Memory: 0.51KB
+
+Set 4 (Vars: 10, Clauses: 60):
+  Resolution | Result: None | Time: 0.009178s | Memory: 640.73KB
+  DP         | Result: True | Time: 0.000477s | Memory: 15.59KB
+  DPLL       | Result: True | Time: 0.000613s | Memory: 25.54KB
+  Glucose3   | Result: True | Time: 0.000240s | Memory: 0.50KB
+
+Set 5 (Vars: 10, Clauses: 70):
+  Resolution | Result: None | Time: 0.010069s | Memory: 618.57KB
+  DP         | Result: True | Time: 0.004505s | Memory: 18.16KB
+  DPLL       | Result: True | Time: 0.000737s | Memory: 22.45KB
+  Glucose3   | Result: True | Time: 0.000221s | Memory: 0.49KB
+
+Set 6 (Vars: 10, Clauses: 80):
+  Resolution | Result: None | Time: 0.009051s | Memory: 631.68KB
+  DP         | Result: True | Time: 0.002627s | Memory: 23.09KB
+  DPLL       | Result: True | Time: 0.000846s | Memory: 25.84KB
+  Glucose3   | Result: True | Time: 0.000191s | Memory: 0.48KB
+
+Set 7 (Vars: 10, Clauses: 90):
+  Resolution | Result: None | Time: 0.009892s | Memory: 694.16KB
+  DP         | Result: True | Time: 0.010505s | Memory: 33.29KB
+  DPLL       | Result: True | Time: 0.001142s | Memory: 44.52KB
+  Glucose3   | Result: True | Time: 0.000269s | Memory: 0.47KB
+
+Set 8 (Vars: 10, Clauses: 100):
+  Resolution | Result: None | Time: 0.010650s | Memory: 734.63KB
+  DP         | Result: False | Time: 0.010831s | Memory: 32.73KB
+  DPLL       | Result: True | Time: 0.001073s | Memory: 43.70KB
+  Glucose3   | Result: False | Time: 0.000270s | Memory: 0.46KB
+
+Set 9 (Vars: 10, Clauses: 110):
+  Resolution | Result: None | Time: 0.012051s | Memory: 870.88KB
+  DP         | Result: True | Time: 0.000772s | Memory: 26.59KB
+  DPLL       | Result: True | Time: 0.001070s | Memory: 37.51KB
+  Glucose3   | Result: True | Time: 0.000254s | Memory: 0.45KB
+
+Set 10 (Vars: 10, Clauses: 120):
+  Resolution | Result: None | Time: 0.016672s | Memory: 874.80KB
+  DP         | Result: True | Time: 0.003263s | Memory: 32.27KB
+  DPLL       | Result: True | Time: 0.001411s | Memory: 42.35KB
+  Glucose3   | Result: True | Time: 0.000321s | Memory: 0.45KB
+
+Set 11 (Vars: 10, Clauses: 130):
+  Resolution | Result: None | Time: 0.014659s | Memory: 926.00KB
+  DP         | Result: False | Time: 0.010754s | Memory: 42.23KB
+  DPLL       | Result: True | Time: 0.001204s | Memory: 46.29KB
+  Glucose3   | Result: False | Time: 0.000344s | Memory: 0.44KB
+
+Set 12 (Vars: 10, Clauses: 140):
+  Resolution | Result: None | Time: 0.014659s | Memory: 1055.80KB
+  DP         | Result: False | Time: 0.014928s | Memory: 45.55KB
+  DPLL       | Result: True | Time: 0.002069s | Memory: 65.85KB
+  Glucose3   | Result: False | Time: 0.000396s | Memory: 0.43KB
+
+Set 13 (Vars: 10, Clauses: 150):
+  Resolution | Result: None | Time: 0.025208s | Memory: 1126.52KB
+  DP         | Result: False | Time: 0.022984s | Memory: 50.10KB
+  DPLL       | Result: True | Time: 0.002469s | Memory: 52.27KB
+  Glucose3   | Result: False | Time: 0.000557s | Memory: 0.42KB
+
+Set 14 (Vars: 10, Clauses: 160):
+  Resolution | Result: None | Time: 0.024808s | Memory: 1231.45KB
+  DP         | Result: True | Time: 0.017543s | Memory: 49.56KB
+  DPLL       | Result: True | Time: 0.002231s | Memory: 60.73KB
+  Glucose3   | Result: True | Time: 0.000667s | Memory: 0.41KB
+
+Set 15 (Vars: 15, Clauses: 30):
+  Resolution | Result: True | Time: 0.004311s | Memory: 141.34KB
+  DP         | Result: True | Time: 0.001405s | Memory: 20.45KB
+  DPLL       | Result: True | Time: 0.000749s | Memory: 16.40KB
+  Glucose3   | Result: True | Time: 0.000190s | Memory: 0.40KB
+
+Set 16 (Vars: 15, Clauses: 40):
+  Resolution | Result: True | Time: 0.007093s | Memory: 338.06KB
+  DP         | Result: True | Time: 0.000597s | Memory: 17.18KB
+  DPLL       | Result: True | Time: 0.000822s | Memory: 22.78KB
+  Glucose3   | Result: True | Time: 0.000222s | Memory: 0.39KB
+
+Set 17 (Vars: 15, Clauses: 50):
+  Resolution | Result: True | Time: 0.007068s | Memory: 357.32KB
+  DP         | Result: True | Time: 0.001139s | Memory: 18.38KB
+  DPLL       | Result: True | Time: 0.001163s | Memory: 33.40KB
+  Glucose3   | Result: True | Time: 0.000277s | Memory: 0.38KB
+
+Set 18 (Vars: 15, Clauses: 60):
+  Resolution | Result: None | Time: 0.010707s | Memory: 584.23KB
+  DP         | Result: True | Time: 0.001058s | Memory: 27.91KB
+  DPLL       | Result: True | Time: 0.000575s | Memory: 24.10KB
+  Glucose3   | Result: True | Time: 0.000264s | Memory: 0.38KB
+
+Set 19 (Vars: 15, Clauses: 70):
+  Resolution | Result: None | Time: 0.011311s | Memory: 588.12KB
+  DP         | Result: True | Time: 0.002956s | Memory: 36.16KB
+  DPLL       | Result: True | Time: 0.001038s | Memory: 26.09KB
+  Glucose3   | Result: True | Time: 0.000264s | Memory: 0.37KB
+
+Set 20 (Vars: 15, Clauses: 80):
+  Resolution | Result: None | Time: 0.011723s | Memory: 647.15KB
+  DP         | Result: True | Time: 0.001030s | Memory: 34.97KB
+  DPLL       | Result: True | Time: 0.001035s | Memory: 42.67KB
+  Glucose3   | Result: True | Time: 0.000243s | Memory: 0.36KB
+
+Set 21 (Vars: 15, Clauses: 90):
+  Resolution | Result: None | Time: 0.012184s | Memory: 678.41KB
+  DP         | Result: True | Time: 0.005334s | Memory: 55.43KB
+  DPLL       | Result: True | Time: 0.001177s | Memory: 45.98KB
+  Glucose3   | Result: True | Time: 0.000246s | Memory: 0.35KB
+
+Set 22 (Vars: 15, Clauses: 100):
+  Resolution | Result: None | Time: 0.012796s | Memory: 707.38KB
+  DP         | Result: True | Time: 0.027400s | Memory: 52.82KB
+  DPLL       | Result: True | Time: 0.002612s | Memory: 57.60KB
+  Glucose3   | Result: True | Time: 0.000361s | Memory: 0.34KB
+
+Set 23 (Vars: 15, Clauses: 110):
+  Resolution | Result: None | Time: 0.031345s | Memory: 818.88KB
+  DP         | Result: True | Time: 0.012338s | Memory: 51.46KB
+  DPLL       | Result: True | Time: 0.001536s | Memory: 44.19KB
+  Glucose3   | Result: True | Time: 0.000322s | Memory: 0.33KB
+
+Set 24 (Vars: 15, Clauses: 120):
+  Resolution | Result: None | Time: 0.021778s | Memory: 873.16KB
+  DP         | Result: True | Time: 0.007298s | Memory: 58.05KB
+  DPLL       | Result: True | Time: 0.001929s | Memory: 46.89KB
+  Glucose3   | Result: True | Time: 0.000346s | Memory: 0.32KB
+
+Set 25 (Vars: 15, Clauses: 130):
+  Resolution | Result: None | Time: 0.022233s | Memory: 958.75KB
+  DP         | Result: False | Time: 0.094113s | Memory: 72.30KB
+  DPLL       | Result: True | Time: 0.003163s | Memory: 52.70KB
+  Glucose3   | Result: False | Time: 0.001188s | Memory: 0.32KB
+
+Set 26 (Vars: 15, Clauses: 140):
+  Resolution | Result: None | Time: 0.020534s | Memory: 1046.88KB
+  DP         | Result: True | Time: 0.018257s | Memory: 68.21KB
+  DPLL       | Result: True | Time: 0.001650s | Memory: 54.10KB
+  Glucose3   | Result: True | Time: 0.000315s | Memory: 0.32KB
+
+Set 27 (Vars: 15, Clauses: 150):
+  Resolution | Result: None | Time: 0.024806s | Memory: 1164.96KB
+  DP         | Result: False | Time: 0.134090s | Memory: 77.12KB
+  DPLL       | Result: True | Time: 0.002348s | Memory: 75.98KB
+  Glucose3   | Result: False | Time: 0.000305s | Memory: 0.32KB
+
+Set 28 (Vars: 15, Clauses: 160):
+  Resolution | Result: None | Time: 0.019033s | Memory: 1225.27KB
+  DP         | Result: False | Time: 0.122954s | Memory: 86.88KB
+  DPLL       | Result: True | Time: 0.002830s | Memory: 83.67KB
+  Glucose3   | Result: False | Time: 0.000349s | Memory: 0.32KB
+
+Set 29 (Vars: 20, Clauses: 30):
+  Resolution | Result: True | Time: 0.002224s | Memory: 128.02KB
+  DP         | Result: True | Time: 0.001089s | Memory: 20.70KB
+  DPLL       | Result: True | Time: 0.000963s | Memory: 21.07KB
+  Glucose3   | Result: True | Time: 0.000184s | Memory: 0.32KB
+
+Set 30 (Vars: 20, Clauses: 40):
+  Resolution | Result: True | Time: 0.003747s | Memory: 205.07KB
+  DP         | Result: True | Time: 0.001126s | Memory: 30.00KB
+  DPLL       | Result: True | Time: 0.000724s | Memory: 14.91KB
+  Glucose3   | Result: True | Time: 0.000116s | Memory: 0.32KB
+
+Set 31 (Vars: 20, Clauses: 50):
+  Resolution | Result: True | Time: 0.006302s | Memory: 313.42KB
+  DP         | Result: True | Time: 0.001335s | Memory: 32.97KB
+  DPLL       | Result: True | Time: 0.000943s | Memory: 19.99KB
+  Glucose3   | Result: True | Time: 0.000117s | Memory: 0.32KB
+
+Set 32 (Vars: 20, Clauses: 60):
+  Resolution | Result: True | Time: 0.009213s | Memory: 438.05KB
+  DP         | Result: True | Time: 0.001622s | Memory: 45.41KB
+  DPLL       | Result: True | Time: 0.000809s | Memory: 23.62KB
+  Glucose3   | Result: True | Time: 0.000230s | Memory: 0.32KB
+
+Set 33 (Vars: 20, Clauses: 70):
+  Resolution | Result: None | Time: 0.011560s | Memory: 604.62KB
+  DP         | Result: True | Time: 0.002874s | Memory: 46.96KB
+  DPLL       | Result: True | Time: 0.001910s | Memory: 65.73KB
+  Glucose3   | Result: True | Time: 0.000271s | Memory: 0.32KB
+
+Set 34 (Vars: 20, Clauses: 80):
+  Resolution | Result: None | Time: 0.013223s | Memory: 637.90KB
+  DP         | Result: True | Time: 0.007436s | Memory: 51.40KB
+  DPLL       | Result: True | Time: 0.001678s | Memory: 50.64KB
+  Glucose3   | Result: True | Time: 0.000216s | Memory: 0.32KB
+
+Set 35 (Vars: 20, Clauses: 90):
+  Resolution | Result: None | Time: 0.013613s | Memory: 706.70KB
+  DP         | Result: True | Time: 0.106406s | Memory: 71.33KB
+  DPLL       | Result: True | Time: 0.002639s | Memory: 64.08KB
+  Glucose3   | Result: True | Time: 0.000228s | Memory: 0.32KB
+
+Set 36 (Vars: 20, Clauses: 100):
+  Resolution | Result: None | Time: 0.015570s | Memory: 734.13KB
+  DP         | Result: True | Time: 0.011075s | Memory: 61.32KB
+  DPLL       | Result: True | Time: 0.003349s | Memory: 94.68KB
+  Glucose3   | Result: True | Time: 0.000200s | Memory: 0.32KB
+
+Set 37 (Vars: 20, Clauses: 110):
+  Resolution | Result: None | Time: 0.016544s | Memory: 781.12KB
+  DP         | Result: True | Time: 0.019866s | Memory: 78.24KB
+  DPLL       | Result: True | Time: 0.002198s | Memory: 46.13KB
+  Glucose3   | Result: True | Time: 0.000201s | Memory: 0.32KB
+
+Set 38 (Vars: 20, Clauses: 120):
+  Resolution | Result: None | Time: 0.016998s | Memory: 875.71KB
+  DP         | Result: True | Time: 0.069238s | Memory: 89.86KB
+  DPLL       | Result: True | Time: 0.001908s | Memory: 51.08KB
+  Glucose3   | Result: True | Time: 0.000291s | Memory: 0.32KB
+
+Set 39 (Vars: 20, Clauses: 130):
+  Resolution | Result: None | Time: 0.019702s | Memory: 938.52KB
+  DP         | Result: True | Time: 0.111285s | Memory: 97.33KB
+  DPLL       | Result: True | Time: 0.004513s | Memory: 132.88KB
+  Glucose3   | Result: True | Time: 0.000279s | Memory: 0.32KB
+
+Set 40 (Vars: 20, Clauses: 140):
+  Resolution | Result: None | Time: 0.019457s | Memory: 1035.13KB
+  DP         | Result: True | Time: 0.223159s | Memory: 104.16KB
+  DPLL       | Result: True | Time: 0.004194s | Memory: 118.81KB
+  Glucose3   | Result: True | Time: 0.000305s | Memory: 0.32KB
+
+Set 41 (Vars: 20, Clauses: 150):
+  Resolution | Result: None | Time: 0.042951s | Memory: 1120.61KB
+  DP         | Result: True | Time: 0.041672s | Memory: 105.12KB
+  DPLL       | Result: True | Time: 0.003828s | Memory: 111.20KB
+  Glucose3   | Result: True | Time: 0.000293s | Memory: 0.37KB
+
+Set 42 (Vars: 20, Clauses: 160):
+  Resolution | Result: None | Time: 0.021072s | Memory: 1228.73KB
+  DP         | Result: True | Time: 0.060254s | Memory: 110.72KB
+  DPLL       | Result: True | Time: 0.003271s | Memory: 110.58KB
+  Glucose3   | Result: True | Time: 0.000238s | Memory: 0.32KB
+
+Set 43 (Vars: 25, Clauses: 30):
+  Resolution | Result: True | Time: 0.001664s | Memory: 98.61KB
+  DP         | Result: True | Time: 0.001000s | Memory: 27.85KB
+  DPLL       | Result: True | Time: 0.000688s | Memory: 15.33KB
+  Glucose3   | Result: True | Time: 0.000096s | Memory: 0.37KB
+
+Set 44 (Vars: 25, Clauses: 40):
+  Resolution | Result: True | Time: 0.003625s | Memory: 205.24KB
+  DP         | Result: True | Time: 0.001464s | Memory: 36.46KB
+  DPLL       | Result: True | Time: 0.001597s | Memory: 39.76KB
+  Glucose3   | Result: True | Time: 0.000099s | Memory: 0.37KB
+
+Set 45 (Vars: 25, Clauses: 50):
+  Resolution | Result: True | Time: 0.005244s | Memory: 255.52KB
+  DP         | Result: True | Time: 0.016062s | Memory: 53.84KB
+  DPLL       | Result: True | Time: 0.001200s | Memory: 40.97KB
+  Glucose3   | Result: True | Time: 0.000105s | Memory: 0.37KB
+
+Set 46 (Vars: 25, Clauses: 60):
+  Resolution | Result: True | Time: 0.008516s | Memory: 371.98KB
+  DP         | Result: True | Time: 0.001919s | Memory: 49.51KB
+  DPLL       | Result: True | Time: 0.002010s | Memory: 54.10KB
+  Glucose3   | Result: True | Time: 0.000262s | Memory: 0.37KB
+
+Set 47 (Vars: 25, Clauses: 70):
+  Resolution | Result: True | Time: 0.013209s | Memory: 576.50KB
+  DP         | Result: True | Time: 0.002727s | Memory: 67.19KB
+  DPLL       | Result: True | Time: 0.002776s | Memory: 80.66KB
+  Glucose3   | Result: True | Time: 0.000198s | Memory: 0.37KB
+
+Set 48 (Vars: 25, Clauses: 80):
+  Resolution | Result: None | Time: 0.015720s | Memory: 629.87KB
+  DP         | Result: True | Time: 0.003730s | Memory: 75.27KB
+  DPLL       | Result: True | Time: 0.001628s | Memory: 45.29KB
+  Glucose3   | Result: True | Time: 0.000221s | Memory: 0.32KB
+
+Set 49 (Vars: 25, Clauses: 90):
+  Resolution | Result: None | Time: 0.015934s | Memory: 701.42KB
+  DP         | Result: True | Time: 0.006408s | Memory: 80.35KB
+  DPLL       | Result: True | Time: 0.003343s | Memory: 99.32KB
+  Glucose3   | Result: True | Time: 0.000202s | Memory: 0.32KB
+
+Set 50 (Vars: 25, Clauses: 100):
+  Resolution | Result: None | Time: 0.016928s | Memory: 718.35KB
+  DP         | Result: True | Time: 0.009836s | Memory: 104.09KB
+  DPLL       | Result: True | Time: 0.002168s | Memory: 43.77KB
+  Glucose3   | Result: True | Time: 0.000246s | Memory: 0.32KB
+
+Set 51 (Vars: 25, Clauses: 110):
+  Resolution | Result: None | Time: 0.016923s | Memory: 863.34KB
+  DP         | Result: True | Time: 0.039018s | Memory: 104.05KB
+  DPLL       | Result: True | Time: 0.003271s | Memory: 105.78KB
+  Glucose3   | Result: True | Time: 0.000173s | Memory: 0.32KB
+
+Set 52 (Vars: 25, Clauses: 120):
+  Resolution | Result: None | Time: 0.015769s | Memory: 862.46KB
+  DP         | Result: True | Time: 0.003781s | Memory: 109.80KB
+  DPLL       | Result: True | Time: 0.002943s | Memory: 84.95KB
+  Glucose3   | Result: True | Time: 0.000178s | Memory: 0.32KB
+
+Set 53 (Vars: 25, Clauses: 130):
+  Resolution | Result: None | Time: 0.016536s | Memory: 970.52KB
+  DP         | Result: True | Time: 0.012015s | Memory: 107.95KB
+  DPLL       | Result: True | Time: 0.002373s | Memory: 73.04KB
+  Glucose3   | Result: True | Time: 0.000235s | Memory: 0.32KB
+
+Set 54 (Vars: 25, Clauses: 140):
+  Resolution | Result: None | Time: 0.017764s | Memory: 1046.63KB
+  DP         | Result: True | Time: 0.141004s | Memory: 125.94KB
+  DPLL       | Result: True | Time: 0.001969s | Memory: 60.23KB
+  Glucose3   | Result: True | Time: 0.000265s | Memory: 0.32KB
+
+Set 55 (Vars: 25, Clauses: 150):
+  Resolution | Result: None | Time: 0.019220s | Memory: 1129.00KB
+  DP         | Result: True | Time: 0.080886s | Memory: 148.83KB
+  DPLL       | Result: True | Time: 0.002799s | Memory: 83.91KB
+  Glucose3   | Result: True | Time: 0.000262s | Memory: 0.32KB
+
+Set 56 (Vars: 25, Clauses: 160):
+  Resolution | Result: None | Time: 0.019390s | Memory: 1208.02KB
+  DP         | Result: True | Time: 0.589841s | Memory: 146.12KB
+  DPLL       | Result: True | Time: 0.002064s | Memory: 69.02KB
+  Glucose3   | Result: True | Time: 0.000299s | Memory: 0.32KB
+
+Set 57 (Vars: 30, Clauses: 30):
+  Resolution | Result: True | Time: 0.001350s | Memory: 92.15KB
+  DP         | Result: True | Time: 0.946130s | Memory: 43.37KB
+  DPLL       | Result: True | Time: 0.000705s | Memory: 27.49KB
+  Glucose3   | Result: True | Time: 0.000131s | Memory: 0.32KB
+
+Set 58 (Vars: 30, Clauses: 40):
+  Resolution | Result: True | Time: 0.002155s | Memory: 146.52KB
+  DP         | Result: True | Time: 0.003334s | Memory: 38.88KB
+  DPLL       | Result: True | Time: 0.000649s | Memory: 26.26KB
+  Glucose3   | Result: True | Time: 0.000073s | Memory: 0.32KB
+
+Set 59 (Vars: 30, Clauses: 50):
+  Resolution | Result: True | Time: 0.003431s | Memory: 276.73KB
+  DP         | Result: True | Time: 0.001485s | Memory: 60.26KB
+  DPLL       | Result: True | Time: 0.001026s | Memory: 46.20KB
+  Glucose3   | Result: True | Time: 0.000073s | Memory: 0.32KB
+
+Set 60 (Vars: 30, Clauses: 60):
+  Resolution | Result: True | Time: 0.005277s | Memory: 347.71KB
+  DP         | Result: True | Time: 0.001269s | Memory: 53.65KB
+  DPLL       | Result: True | Time: 0.001676s | Memory: 76.78KB
+  Glucose3   | Result: True | Time: 0.000085s | Memory: 0.32KB
+
+Set 61 (Vars: 30, Clauses: 70):
+  Resolution | Result: True | Time: 0.006744s | Memory: 403.14KB
+  DP         | Result: True | Time: 0.009446s | Memory: 78.63KB
+  DPLL       | Result: True | Time: 0.001557s | Memory: 75.58KB
+  Glucose3   | Result: True | Time: 0.000088s | Memory: 0.32KB
+
+Set 62 (Vars: 30, Clauses: 80):
+  Resolution | Result: True | Time: 0.010348s | Memory: 600.29KB
+  DP         | Result: True | Time: 0.052269s | Memory: 92.29KB
+  DPLL       | Result: True | Time: 0.001263s | Memory: 46.97KB
+  Glucose3   | Result: True | Time: 0.000094s | Memory: 0.32KB
+
+Set 63 (Vars: 30, Clauses: 90):
+  Resolution | Result: None | Time: 0.010843s | Memory: 708.17KB
+  DP         | Result: True | Time: 0.155513s | Memory: 116.13KB
+  DPLL       | Result: True | Time: 0.002356s | Memory: 103.02KB
+  Glucose3   | Result: True | Time: 0.000154s | Memory: 0.32KB
+
+Set 64 (Vars: 30, Clauses: 100):
+  Resolution | Result: None | Time: 0.012594s | Memory: 714.13KB
+  DP         | Result: True | Time: 0.004549s | Memory: 96.44KB
+  DPLL       | Result: True | Time: 0.001874s | Memory: 83.19KB
+  Glucose3   | Result: True | Time: 0.000150s | Memory: 0.32KB
+
+Set 65 (Vars: 30, Clauses: 110):
+  Resolution | Result: None | Time: 0.012230s | Memory: 831.59KB
+  DP         | Result: True | Time: 0.060042s | Memory: 132.10KB
+  DPLL       | Result: True | Time: 0.001676s | Memory: 77.96KB
+  Glucose3   | Result: True | Time: 0.000147s | Memory: 0.32KB
+
+Set 66 (Vars: 30, Clauses: 120):
+  Resolution | Result: None | Time: 0.012645s | Memory: 889.71KB
+  DP         | Result: True | Time: 0.004545s | Memory: 135.74KB
+  DPLL       | Result: True | Time: 0.002078s | Memory: 85.70KB
+  Glucose3   | Result: True | Time: 0.000129s | Memory: 0.32KB
+
+Set 67 (Vars: 30, Clauses: 130):
+  Resolution | Result: None | Time: 0.012856s | Memory: 962.80KB
+  DP         | Result: True | Time: 0.048967s | Memory: 134.84KB
+  DPLL       | Result: True | Time: 0.001959s | Memory: 74.92KB
+  Glucose3   | Result: True | Time: 0.000173s | Memory: 0.32KB
+
+Set 68 (Vars: 30, Clauses: 140):
+  Resolution | Result: None | Time: 0.013937s | Memory: 1047.85KB
+  DP         | Result: True | Time: 0.020073s | Memory: 154.28KB
+  DPLL       | Result: True | Time: 0.002720s | Memory: 117.13KB
+  Glucose3   | Result: True | Time: 0.000192s | Memory: 0.32KB
+
+Set 69 (Vars: 30, Clauses: 150):
+  Resolution | Result: None | Time: 0.014742s | Memory: 1146.03KB
+  DP         | Result: True | Time: 0.005137s | Memory: 154.34KB
+  DPLL       | Result: True | Time: 0.003680s | Memory: 167.04KB
+  Glucose3   | Result: True | Time: 0.000193s | Memory: 0.32KB
+
+Set 70 (Vars: 30, Clauses: 160):
+  Resolution | Result: None | Time: 0.014758s | Memory: 1236.48KB
+  DP         | Result: True | Time: 0.428099s | Memory: 189.64KB
+  DPLL       | Result: True | Time: 0.002488s | Memory: 119.28KB
+  Glucose3   | Result: True | Time: 0.000199s | Memory: 0.32KB
+
+Set 71 (Vars: 35, Clauses: 30):
+  Resolution | Result: True | Time: 0.001125s | Memory: 76.46KB
+  DP         | Result: True | Time: 0.000688s | Memory: 31.02KB
+  DPLL       | Result: True | Time: 0.000495s | Memory: 19.30KB
+  Glucose3   | Result: True | Time: 0.000061s | Memory: 0.32KB
+
+Set 72 (Vars: 35, Clauses: 40):
+  Resolution | Result: True | Time: 0.001987s | Memory: 131.42KB
+  DP         | Result: True | Time: 0.001301s | Memory: 53.71KB
+  DPLL       | Result: True | Time: 0.001302s | Memory: 55.77KB
+  Glucose3   | Result: True | Time: 0.000065s | Memory: 0.32KB
+
+Set 73 (Vars: 35, Clauses: 50):
+  Resolution | Result: True | Time: 0.003003s | Memory: 203.09KB
+  DP         | Result: True | Time: 0.001870s | Memory: 74.02KB
+  DPLL       | Result: True | Time: 0.000593s | Memory: 21.22KB
+  Glucose3   | Result: True | Time: 0.000073s | Memory: 0.32KB
+
+Set 74 (Vars: 35, Clauses: 60):
+  Resolution | Result: True | Time: 0.004833s | Memory: 299.27KB
+  DP         | Result: True | Time: 0.001762s | Memory: 72.12KB
+  DPLL       | Result: True | Time: 0.001499s | Memory: 61.59KB
+  Glucose3   | Result: True | Time: 0.000077s | Memory: 0.32KB
+
+Set 75 (Vars: 35, Clauses: 70):
+  Resolution | Result: True | Time: 0.007165s | Memory: 446.68KB
+  DP         | Result: True | Time: 0.001984s | Memory: 81.84KB
+  DPLL       | Result: True | Time: 0.002047s | Memory: 87.02KB
+  Glucose3   | Result: True | Time: 0.000089s | Memory: 0.32KB
+
+Set 76 (Vars: 35, Clauses: 80):
+  Resolution | Result: True | Time: 0.010158s | Memory: 568.41KB
+  DP         | Result: True | Time: 0.002740s | Memory: 105.10KB
+  DPLL       | Result: True | Time: 0.001971s | Memory: 75.62KB
+  Glucose3   | Result: True | Time: 0.000093s | Memory: 0.32KB
+
+Set 77 (Vars: 35, Clauses: 90):
+  Resolution | Result: True | Time: 0.011776s | Memory: 623.60KB
+  DP         | Result: True | Time: 0.780277s | Memory: 127.05KB
+  DPLL       | Result: True | Time: 0.001433s | Memory: 56.68KB
+  Glucose3   | Result: True | Time: 0.000187s | Memory: 0.32KB
+
+Set 78 (Vars: 35, Clauses: 100):
+  Resolution | Result: None | Time: 0.013217s | Memory: 710.60KB
+  DP         | Result: True | Time: 0.017753s | Memory: 126.28KB
+  DPLL       | Result: True | Time: 0.001778s | Memory: 74.64KB
+  Glucose3   | Result: True | Time: 0.000120s | Memory: 0.32KB
+
+Set 79 (Vars: 35, Clauses: 110):
+  Resolution | Result: None | Time: 0.013200s | Memory: 800.09KB
+  DP         | Result: True | Time: 0.015571s | Memory: 138.48KB
+  DPLL       | Result: True | Time: 0.001668s | Memory: 65.20KB
+  Glucose3   | Result: True | Time: 0.000119s | Memory: 0.32KB
+
+Set 80 (Vars: 35, Clauses: 120):
+  Resolution | Result: None | Time: 0.014529s | Memory: 874.96KB
+  DP         | Result: True | Time: 0.195958s | Memory: 166.14KB
+  DPLL       | Result: True | Time: 0.002095s | Memory: 87.61KB
+  Glucose3   | Result: True | Time: 0.000172s | Memory: 0.32KB
+
+Set 81 (Vars: 35, Clauses: 130):
+  Resolution | Result: None | Time: 0.015361s | Memory: 938.48KB
+  DP         | Result: True | Time: 0.940030s | Memory: 182.19KB
+  DPLL       | Result: True | Time: 0.001654s | Memory: 77.02KB
+  Glucose3   | Result: True | Time: 0.000237s | Memory: 0.32KB
+
+Set 82 (Vars: 35, Clauses: 140):
+  Resolution | Result: None | Time: 0.015784s | Memory: 1018.60KB
+  DP         | Result: True | Time: 0.004546s | Memory: 176.87KB
+  DPLL       | Result: True | Time: 0.003650s | Memory: 156.91KB
+  Glucose3   | Result: True | Time: 0.000157s | Memory: 0.32KB
+
+Set 83 (Vars: 35, Clauses: 150):
+  Resolution | Result: None | Time: 0.015754s | Memory: 1142.25KB
+  DP         | Result: True | Time: 0.004754s | Memory: 189.43KB
+  DPLL       | Result: True | Time: 0.002611s | Memory: 110.33KB
+  Glucose3   | Result: True | Time: 0.000156s | Memory: 0.32KB
+
+Set 84 (Vars: 35, Clauses: 160):
+  Resolution | Result: None | Time: 0.015586s | Memory: 1243.74KB
+  DP         | Result: True | Time: 0.175993s | Memory: 194.81KB
+  DPLL       | Result: True | Time: 0.004596s | Memory: 182.84KB
+  Glucose3   | Result: True | Time: 0.000237s | Memory: 0.32KB
+
+Set 85 (Vars: 40, Clauses: 30):
+  Resolution | Result: True | Time: 0.001186s | Memory: 70.41KB
+  DP         | Result: True | Time: 0.002023s | Memory: 63.98KB
+  DPLL       | Result: True | Time: 0.000867s | Memory: 29.31KB
+  Glucose3   | Result: True | Time: 0.000100s | Memory: 0.32KB
+
+Set 86 (Vars: 40, Clauses: 40):
+  Resolution | Result: True | Time: 0.002224s | Memory: 117.73KB
+  DP         | Result: True | Time: 0.001950s | Memory: 68.27KB
+  DPLL       | Result: True | Time: 0.001109s | Memory: 36.68KB
+  Glucose3   | Result: True | Time: 0.000127s | Memory: 0.32KB
+
+Set 87 (Vars: 40, Clauses: 50):
+  Resolution | Result: True | Time: 0.003160s | Memory: 148.04KB
+  DP         | Result: True | Time: 0.007617s | Memory: 68.88KB
+  DPLL       | Result: True | Time: 0.000896s | Memory: 27.73KB
+  Glucose3   | Result: True | Time: 0.000113s | Memory: 0.32KB
+
+Set 88 (Vars: 40, Clauses: 60):
+  Resolution | Result: True | Time: 0.005428s | Memory: 283.30KB
+  DP         | Result: True | Time: 0.003186s | Memory: 102.36KB
+  DPLL       | Result: True | Time: 0.001626s | Memory: 62.37KB
+  Glucose3   | Result: True | Time: 0.000118s | Memory: 0.32KB
+
+Set 89 (Vars: 40, Clauses: 70):
+  Resolution | Result: True | Time: 0.007654s | Memory: 375.95KB
+  DP         | Result: True | Time: 0.003486s | Memory: 109.83KB
+  DPLL       | Result: True | Time: 0.001116s | Memory: 29.97KB
+  Glucose3   | Result: True | Time: 0.000125s | Memory: 0.32KB
+
+Set 90 (Vars: 40, Clauses: 80):
+  Resolution | Result: True | Time: 0.010274s | Memory: 459.77KB
+  DP         | Result: True | Time: 0.662317s | Memory: 141.34KB
+  DPLL       | Result: True | Time: 0.001690s | Memory: 73.62KB
+  Glucose3   | Result: True | Time: 0.000171s | Memory: 0.37KB
+
+Set 91 (Vars: 40, Clauses: 90):
+  Resolution | Result: True | Time: 0.012503s | Memory: 673.90KB
+  DP         | Result: True | Time: 0.004655s | Memory: 134.59KB
+  DPLL       | Result: True | Time: 0.003577s | Memory: 140.88KB
+  Glucose3   | Result: True | Time: 0.000132s | Memory: 0.32KB
+
+Set 92 (Vars: 40, Clauses: 100):
+  Resolution | Result: None | Time: 0.014882s | Memory: 747.85KB
+  DP         | Result: True | Time: 0.018079s | Memory: 163.27KB
+  DPLL       | Result: True | Time: 0.002085s | Memory: 78.59KB
+  Glucose3   | Result: True | Time: 0.000116s | Memory: 0.32KB
+
+Set 93 (Vars: 40, Clauses: 110):
+  Resolution | Result: None | Time: 0.014836s | Memory: 824.12KB
+  DP         | Result: True | Time: 0.008556s | Memory: 143.21KB
+  DPLL       | Result: True | Time: 0.004210s | Memory: 159.90KB
+  Glucose3   | Result: True | Time: 0.000127s | Memory: 0.32KB
+
+Set 94 (Vars: 40, Clauses: 120):
+  Resolution | Result: None | Time: 0.014605s | Memory: 909.71KB
+  DP         | Result: True | Time: 0.104877s | Memory: 178.99KB
+  DPLL       | Result: True | Time: 0.002996s | Memory: 127.62KB
+  Glucose3   | Result: True | Time: 0.000184s | Memory: 0.32KB
+
+Set 95 (Vars: 40, Clauses: 130):
+  Resolution | Result: None | Time: 0.016718s | Memory: 939.02KB
+  DP         | Result: True | Time: 0.070434s | Memory: 183.35KB
+  DPLL       | Result: True | Time: 0.006211s | Memory: 214.28KB
+  Glucose3   | Result: True | Time: 0.000207s | Memory: 0.32KB
+
+Set 96 (Vars: 40, Clauses: 140):
+  Resolution | Result: None | Time: 0.018539s | Memory: 1042.38KB
+  DP         | Result: True | Time: 3.192168s | Memory: 218.20KB
+  DPLL       | Result: True | Time: 0.004864s | Memory: 236.85KB
+  Glucose3   | Result: True | Time: 0.000191s | Memory: 0.32KB
+
+Set 97 (Vars: 40, Clauses: 150):
+  Resolution | Result: None | Time: 0.014946s | Memory: 1147.00KB
+  DP         | Result: True | Time: 0.008051s | Memory: 226.48KB
+  DPLL       | Result: True | Time: 0.002069s | Memory: 95.96KB
+  Glucose3   | Result: True | Time: 0.000177s | Memory: 0.32KB
+
+Set 98 (Vars: 40, Clauses: 160):
+  Resolution | Result: None | Time: 0.016141s | Memory: 1210.49KB
+  DP         | Result: True | Time: 0.051776s | Memory: 248.54KB
+  DPLL       | Result: True | Time: 0.001948s | Memory: 98.09KB
+  Glucose3   | Result: True | Time: 0.000137s | Memory: 0.32KB
+
+Set 99 (Vars: 45, Clauses: 30):
+  Resolution | Result: True | Time: 0.000853s | Memory: 58.75KB
+  DP         | Result: True | Time: 0.001451s | Memory: 63.23KB
+  DPLL       | Result: True | Time: 0.001063s | Memory: 50.45KB
+  Glucose3   | Result: True | Time: 0.000051s | Memory: 0.32KB
+
+Set 100 (Vars: 45, Clauses: 40):
+  Resolution | Result: True | Time: 0.001558s | Memory: 101.09KB
+  DP         | Result: True | Time: 0.001736s | Memory: 77.38KB
+  DPLL       | Result: True | Time: 0.001253s | Memory: 55.77KB
+  Glucose3   | Result: True | Time: 0.000056s | Memory: 0.32KB
+
+Set 101 (Vars: 45, Clauses: 50):
+  Resolution | Result: True | Time: 0.002670s | Memory: 167.39KB
+  DP         | Result: True | Time: 0.001768s | Memory: 80.91KB
+  DPLL       | Result: True | Time: 0.001845s | Memory: 101.33KB
+  Glucose3   | Result: True | Time: 0.000058s | Memory: 0.32KB
+
+Set 102 (Vars: 45, Clauses: 60):
+  Resolution | Result: True | Time: 0.003860s | Memory: 286.99KB
+  DP         | Result: True | Time: 0.002390s | Memory: 109.16KB
+  DPLL       | Result: True | Time: 0.000882s | Memory: 43.34KB
+  Glucose3   | Result: True | Time: 0.000072s | Memory: 0.32KB
+
+Set 103 (Vars: 45, Clauses: 70):
+  Resolution | Result: True | Time: 0.005399s | Memory: 319.01KB
+  DP         | Result: True | Time: 0.002986s | Memory: 125.98KB
+  DPLL       | Result: True | Time: 0.002237s | Memory: 74.29KB
+  Glucose3   | Result: True | Time: 0.000125s | Memory: 0.32KB
+
+Set 104 (Vars: 45, Clauses: 80):
+  Resolution | Result: True | Time: 0.006915s | Memory: 401.48KB
+  DP         | Result: True | Time: 0.136151s | Memory: 156.80KB
+  DPLL       | Result: True | Time: 0.001581s | Memory: 70.95KB
+  Glucose3   | Result: True | Time: 0.000129s | Memory: 0.32KB
+
+Set 105 (Vars: 45, Clauses: 90):
+  Resolution | Result: True | Time: 0.010696s | Memory: 618.33KB
+  DP         | Result: True | Time: 0.007809s | Memory: 145.16KB
+  DPLL       | Result: True | Time: 0.002934s | Memory: 130.64KB
+  Glucose3   | Result: True | Time: 0.000245s | Memory: 0.32KB
+
+Set 106 (Vars: 45, Clauses: 100):
+  Resolution | Result: None | Time: 0.013112s | Memory: 776.63KB
+  DP         | Result: True | Time: 0.152000s | Memory: 190.92KB
+  DPLL       | Result: True | Time: 0.002179s | Memory: 107.94KB
+  Glucose3   | Result: True | Time: 0.000124s | Memory: 0.32KB
+
+Set 107 (Vars: 45, Clauses: 110):
+  Resolution | Result: None | Time: 0.013281s | Memory: 809.59KB
+  DP         | Result: True | Time: 0.004189s | Memory: 187.31KB
+  DPLL       | Result: True | Time: 0.001888s | Memory: 86.50KB
+  Glucose3   | Result: True | Time: 0.000148s | Memory: 0.32KB
+
+Set 108 (Vars: 45, Clauses: 120):
+  Resolution | Result: None | Time: 0.014089s | Memory: 908.21KB
+  DP         | Result: True | Time: 0.059602s | Memory: 207.56KB
+  DPLL       | Result: True | Time: 0.002575s | Memory: 110.88KB
+  Glucose3   | Result: True | Time: 0.000145s | Memory: 0.32KB
+
+Set 109 (Vars: 45, Clauses: 130):
+  Resolution | Result: None | Time: 0.014703s | Memory: 959.52KB
+  DP         | Result: True | Time: 0.201558s | Memory: 232.06KB
+  DPLL       | Result: True | Time: 0.002211s | Memory: 101.81KB
+  Glucose3   | Result: True | Time: 0.000253s | Memory: 0.32KB
+
+Set 110 (Vars: 45, Clauses: 140):
+  Resolution | Result: None | Time: 0.015366s | Memory: 1039.85KB
+  DP         | Result: True | Time: 0.122072s | Memory: 224.12KB
+  DPLL       | Result: True | Time: 0.001449s | Memory: 63.31KB
+  Glucose3   | Result: True | Time: 0.000164s | Memory: 0.32KB
+
+Set 111 (Vars: 45, Clauses: 150):
+  Resolution | Result: None | Time: 0.027976s | Memory: 1145.25KB
+  DP         | Result: True | Time: 65.427258s | Memory: 279.10KB
+  DPLL       | Result: True | Time: 0.001731s | Memory: 68.38KB
+  Glucose3   | Result: True | Time: 0.000233s | Memory: 0.37KB
+
+Set 112 (Vars: 45, Clauses: 160):
+  Resolution | Result: None | Time: 0.019300s | Memory: 1227.52KB
+  DP         | Result: True | Time: 0.112596s | Memory: 288.10KB
+  DPLL       | Result: True | Time: 0.004548s | Memory: 191.09KB
+  Glucose3   | Result: True | Time: 0.000182s | Memory: 0.37KB
+
+Set 113 (Vars: 50, Clauses: 30):
+  Resolution | Result: True | Time: 0.001011s | Memory: 74.34KB
+  DP         | Result: True | Time: 0.001836s | Memory: 72.66KB
+  DPLL       | Result: True | Time: 0.001091s | Memory: 42.94KB
+  Glucose3   | Result: True | Time: 0.000063s | Memory: 0.37KB
+
+Set 114 (Vars: 50, Clauses: 40):
+  Resolution | Result: True | Time: 0.001776s | Memory: 97.33KB
+  DP         | Result: True | Time: 0.002301s | Memory: 89.55KB
+  DPLL       | Result: True | Time: 0.001543s | Memory: 64.25KB
+  Glucose3   | Result: True | Time: 0.000070s | Memory: 0.37KB
+
+Set 115 (Vars: 50, Clauses: 50):
+  Resolution | Result: True | Time: 0.002786s | Memory: 142.05KB
+  DP         | Result: True | Time: 0.002654s | Memory: 97.95KB
+  DPLL       | Result: True | Time: 0.001634s | Memory: 75.63KB
+  Glucose3   | Result: True | Time: 0.000075s | Memory: 0.37KB
+
+Set 116 (Vars: 50, Clauses: 60):
+  Resolution | Result: True | Time: 0.003966s | Memory: 226.07KB
+  DP         | Result: True | Time: 0.003284s | Memory: 137.95KB
+  DPLL       | Result: True | Time: 0.001880s | Memory: 86.76KB
+  Glucose3   | Result: True | Time: 0.000075s | Memory: 0.37KB
+
+Set 117 (Vars: 50, Clauses: 70):
+  Resolution | Result: True | Time: 0.005749s | Memory: 306.54KB
+  DP         | Result: True | Time: 0.003922s | Memory: 143.90KB
+  DPLL       | Result: True | Time: 0.003011s | Memory: 134.62KB
+  Glucose3   | Result: True | Time: 0.000092s | Memory: 0.37KB
+
+Set 118 (Vars: 50, Clauses: 80):
+  Resolution | Result: True | Time: 0.008781s | Memory: 413.91KB
+  DP         | Result: True | Time: 0.003708s | Memory: 140.27KB
+  DPLL       | Result: True | Time: 0.002273s | Memory: 96.20KB
+  Glucose3   | Result: True | Time: 0.000098s | Memory: 0.37KB
+
+Set 119 (Vars: 50, Clauses: 90):
+  Resolution | Result: True | Time: 0.011407s | Memory: 548.57KB
+  DP         | Result: True | Time: 2.606745s | Memory: 192.02KB
+  DPLL       | Result: True | Time: 0.001076s | Memory: 41.54KB
+  Glucose3   | Result: True | Time: 0.000152s | Memory: 0.32KB
+
+Set 120 (Vars: 50, Clauses: 100):
+  Resolution | Result: True | Time: 0.014570s | Memory: 762.16KB
+  DP         | Result: True | Time: 0.004690s | Memory: 195.91KB
+  DPLL       | Result: True | Time: 0.001527s | Memory: 61.63KB
+  Glucose3   | Result: True | Time: 0.000118s | Memory: 0.32KB
+
+Set 121 (Vars: 50, Clauses: 110):
+  Resolution | Result: None | Time: 0.014659s | Memory: 818.34KB
+  DP         | Result: True | Time: 0.005738s | Memory: 208.58KB
+  DPLL       | Result: True | Time: 0.003771s | Memory: 157.45KB
+  Glucose3   | Result: True | Time: 0.000133s | Memory: 0.32KB
+
+Set 122 (Vars: 50, Clauses: 120):
+  Resolution | Result: None | Time: 0.016272s | Memory: 882.21KB
+  DP         | Result: True | Time: 0.028227s | Memory: 250.97KB
+  DPLL       | Result: True | Time: 0.003040s | Memory: 144.77KB
+  Glucose3   | Result: True | Time: 0.000125s | Memory: 0.32KB
+
+Set 123 (Vars: 50, Clauses: 130):
+  Resolution | Result: None | Time: 0.016048s | Memory: 951.77KB
+  DP         | Result: True | Time: 0.038642s | Memory: 241.98KB
+  DPLL       | Result: True | Time: 0.004123s | Memory: 176.27KB
+  Glucose3   | Result: True | Time: 0.000144s | Memory: 0.32KB
+
+Set 124 (Vars: 50, Clauses: 140):
+  Resolution | Result: None | Time: 0.016964s | Memory: 1052.38KB
+  DP         | Result: True | Time: 2.150578s | Memory: 274.75KB
+  DPLL       | Result: True | Time: 0.001559s | Memory: 87.39KB
+  Glucose3   | Result: True | Time: 0.000206s | Memory: 0.32KB
+
+Set 125 (Vars: 50, Clauses: 150):
+  Resolution | Result: None | Time: 0.015723s | Memory: 1145.25KB
+  DP         | Result: True | Time: 0.023257s | Memory: 288.26KB
+  DPLL       | Result: True | Time: 0.002242s | Memory: 123.53KB
+  Glucose3   | Result: True | Time: 0.000135s | Memory: 0.32KB
+
+Set 126 (Vars: 50, Clauses: 160):
+  Resolution | Result: None | Time: 0.016486s | Memory: 1233.27KB
+  DP         | Result: True | Time: 0.087192s | Memory: 283.65KB
+  DPLL       | Result: True | Time: 0.004163s | Memory: 203.37KB
+  Glucose3   | Result: True | Time: 0.000179s | Memory: 0.32KB
+
