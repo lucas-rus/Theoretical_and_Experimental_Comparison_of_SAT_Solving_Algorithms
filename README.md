@@ -61,7 +61,3 @@ Install them manually using:
 ```bash
 pip install psutil matplotlib python-sat[pblib,aiger]
 ```
-
-## 📄 License
-
-This project is licensed under the MIT License.
