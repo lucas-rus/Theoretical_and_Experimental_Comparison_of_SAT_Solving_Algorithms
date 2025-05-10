@@ -47,7 +47,7 @@ python3 SAT_Solving_Benchmark.py
 ```
 
 The script will generate:
-- `SAT_Solving_Results.txt` – contains detailed runtime and memory usage per solver
+-  Raw benchmark data console output
 - `solver_piechart.png` – visual summary of results
 
 ## 📦 Dependencies
